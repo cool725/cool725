@@ -197,4 +197,4 @@ With 8+ years of full-stack web development experience for global businesses, I 
 <img src="https://github-profile-trophy.vercel.app/?username=cool725&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
 <br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cool725&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=cool725&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
