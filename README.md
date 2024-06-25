@@ -120,7 +120,7 @@ With 8+ years of full-stack web development experience for global businesses, I 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" alt="iOS" width="40" height="40"  />
   </a>
   <a href="https://www.rust-lang.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
   </a>
   <a href="https://slack.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg" alt="slack" width="40" height="40"/>
