@@ -72,7 +72,7 @@ With 8+ years of full-stack web development experience for global businesses, I 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://docs.nestjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="nestjs" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" alt="nestjs" width="40" height="40"/>
   </a>
   <a href="https://www.php.net" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
@@ -81,7 +81,7 @@ With 8+ years of full-stack web development experience for global businesses, I 
     <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
   </a>
   <a href="https://laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
   </a>
   <a href="https://socket.io/docs" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="socketio" width="40" height="40"/>
@@ -173,7 +173,7 @@ With 8+ years of full-stack web development experience for global businesses, I 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" alt="putty" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original-wordmark.svg" alt="phpstorm" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="webstorm" width="40" height="40"/>
 </p>
 <br />
